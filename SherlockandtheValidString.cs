@@ -91,7 +91,7 @@ namespace cs_hackerrank_sherlock_and_the_valid_string
                 }
                 else
                 {
-                    return "NO1";
+                    return "NO";
                 }
 
 
@@ -101,7 +101,7 @@ namespace cs_hackerrank_sherlock_and_the_valid_string
             // cesitlilik sayisi 2 den fazla ise  
             else
             {
-                return "NO2";
+                return "NO";
             }
         }
 
