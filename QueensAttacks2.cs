@@ -6,6 +6,7 @@ namespace cs_hackerrank
 {
     class Result
     {
+        /*
         public static bool isWrong(int row, int col, List<List<int>> obstacles)
         {
             //Console.WriteLine(obstacles.Count());
@@ -141,7 +142,7 @@ namespace cs_hackerrank
             }
             return count;
         }
-
+*/
 
 
 
